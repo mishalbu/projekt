@@ -1,0 +1,128 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+
+
+t a:hover
+{
+    text-shadow: 3px 3px 5px #000000;
+    color:black;
+    
+    text-decoration: none;
+}
+
+t a
+{
+      margin: 10px; 
+      padding: 10px 10px 10px 10px;
+      font-size: 17px;
+      color: black;
+      
+}
+
+h4{
+     text-align: center;
+     color:black;
+     font-family: 'Nanum Gothic', sans-serif;
+     margin-top: 100px;
+}
+
+.h1{
+   
+      font-family: 'Nanum Gothic', sans-serif;
+      letter-spacing: 5px;  
+      text-align: center;
+      padding: 30px;
+      color: white;
+     
+      font-size: 4vw;
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color:rgba(255,255,255,.1);
+}
+
+
+.margin{
+       margin-top:40px;
+      background-color: transparent;
+}
+.logo{
+       margin: 5px 20px 5px 20px; 
+       font-weight: bold;
+       color: white;
+       font-size:25px;
+}
+nav{
+   
+}
+.navbar {
+    
+      padding-bottom: 15px;  
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      background-color: transparent;
+     
+      font-family: 'Nanum Gothic', sans-serif;
+  }
+  .container-fluid{
+      min-height: 100px !important;
+      background-color: transparent;
+   margin-bottom: -15px !important;
+  }
+.parallax, .parallax2, .parallax3, .parallax4 { 
+  /* The image used */
+
+  /* Set a specific height */
+  height: 600px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom:30px;
+}
+
+.btn-pridat{
+    font-family: 'Nanum Gothic', sans-serif;
+      letter-spacing: 5px;  
+      text-align: center;
+      padding: 10px 50px 10px 50px;
+      color: white;
+     margin-top: 30px;
+      font-size: 1vw;
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color:rgba(0,0,0,.1);
+}
+.parallax4-btn, .parallax3-btn { 
+  /* The image used */
+
+  /* Set a specific height */
+  height: 60px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom:30px;
+}
+.reg{
+    margin-top: 100px;
+    text-align: center;
+        font-family: 'Nanum Gothic', sans-serif;
+
+}
+.control-label{
+     font-family: 'Nanum Gothic', sans-serif;
+       text-align: center;
+       font-weight: normal;
+}
+
+ul.breadcrumb li a:hover{
+    text-decoration: none;
+}
